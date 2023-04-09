@@ -1,6 +1,6 @@
 version: "3.9"
 services:
   web:
-    image: haffizgaluh/apps-gals:ver1
+    image: "haffizgaluh/apps-gals:ver1"
     ports:
       - "80:80"
